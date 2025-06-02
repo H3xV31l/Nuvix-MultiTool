@@ -14,3 +14,4 @@ A versatile multitool for Discord with various scripts focused on tokens, webhoo
 
 ---
 
+https://discord.gg/MXVGbqkEbh

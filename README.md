@@ -18,12 +18,16 @@ https://discord.gg/MXVGbqkEbh
 
 
 
+:
+
 📁 How to Use the Tool:
-To ensure the tool works correctly, go to the src/ folder and follow these steps:
+To use the tool properly, follow these steps:
+
+Go to the src/ folder
 
 Remove any unnecessary or misplaced .py files
 
-Place the .py files in the following exact order:
+Make sure the .py files are placed in this exact order:
 
 markdown
 Copia
@@ -34,9 +38,12 @@ Modifica
 4. webhook_spammer.py
 5. dos_attack.py
 6. mass_report.py
-✅ This specific order is required for the menu and core functions to run properly.
+✅ This order ensures the tool runs smoothly and without errors.
 
-⚠️ Do not rename the files and make sure the extension remains .py.
+To run a specific feature, simply open the src/ folder and click on the .py file you want to use.
+
+⚠️ Do not rename the files and make sure they keep the .py extension.
+
 
 
 
